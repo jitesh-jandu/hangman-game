@@ -4,7 +4,18 @@ import random
 
 let = []
 
-lis =["coffee","happy","game","snake","guess" ]
+# only for visiters this list of name is taken from ai. rest full code is written by myself. thank you. !  
+
+lis =["coffee","happy","game","snake","guess""monkey", "tiger", "rabbit", "parrot", "giraffe", "zebra", "camel", "dolphin", 
+    "penguin", "elephant", "kitten", "puppy", "spider", "turtle", "lizard", "donkey",
+    "apple", "banana", "mango", "orange", "potato", "carrot", "lemon", "grapes", 
+    "cherry", "tomato", "onion", "garlic", "papaya", "melon","pencil", "bottle", "camera", "pillow", "clock", "chair", "mirror", "window", 
+    "blanket", "wallet", "jacket", "guitar", "hammer", "bucket", "candle", "laptop",
+    "summer", "winter", "shadow", "flower", "garden", "jungle", "cloud", "forest", 
+    "river", "desert", "rainbow", "planet", "island", "valley","school", "doctor", "pirate", "wizard", "monster", "dragon", "market", "castle", 
+    "palace", "police", "driver", "baker", "pilot", "farmer","bicycle", "soccer", "cricket", "rocket", "airplane", "scooter", "runner", "player", 
+    "tennis", "hockey","happy", "coffee", "cinema", "dinner", "butter", "cheese", "cookie", "family", 
+    "friend", "window", "yellow", "purple", "silver", "golden", "basket", "travel" ]
 
 name = random.choice(lis) 
 
